@@ -19,7 +19,7 @@ const Features = () => {
       </div>
 
       <div style={{display:"flex",justifyContent:"center",marginTop:"4em"}}>
-          <div className="flex gap-5 " >
+          {/* <div className="flex gap-5 " >
                   <a href="https://github.com/Shauryaa007"><span className="bannerIcon">
                     <BsGithub/>
                   </span></a>
@@ -35,7 +35,7 @@ const Features = () => {
                   <a href="https://codeforces.com/profile/LordVoldemort007"><span className="bannerIcon">
                     <SiCodeforces />
                   </span></a>
-          </div>
+          </div> */}
         </div>
     </section>
   );
